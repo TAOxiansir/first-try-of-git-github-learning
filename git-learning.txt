@@ -1,3 +1,5 @@
 first try of git/GitHub learning
 增加一些文本内容：
 second try of git/GitHub learning
+再次新增一些文本内容：
+third try of git/GitHub learning
